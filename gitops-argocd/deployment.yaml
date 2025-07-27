@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: myapp-v1
-          image: anji103/vasavi:v1
+          image: anji103/vasavi:v2
           ports:
             - containerPort: 80  # Port 80
