@@ -17,4 +17,4 @@ spec:
         - name: myapp-v1
           image: surya9961/k8sdep:v1
           ports:
-            - containerPort: 80  # Port 80
+            - containerPort: 81  # Port 80
